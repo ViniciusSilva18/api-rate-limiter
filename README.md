@@ -9,6 +9,13 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/ViniciusSilva18/api-rate-limiter">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18-api-rate-limiter&label=Visualiza%C3%A7%C3%B5es&color=06b6d4&style=flat" alt="Views" />
+  </a>
+</div>
+
+
 ## ✨ Funcionalidades
 - 🔢 Limite configurável de requests por janela de tempo
 - 🚫 Bloqueio automático de IPs que excedem o limite
